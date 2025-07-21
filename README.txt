@@ -62,3 +62,11 @@ Endpoint	Method	 Description
 /upload	        POST	 Upload PDF file
 /ask	        POST	 Ask a question
 /reset	        POST	 Reset conversation history
+
+Example PDF Format:
+
+Question: What is the capital of France?
+Answer: Paris
+
+Question: Who wrote Hamlet?
+Answer: William Shakespeare
