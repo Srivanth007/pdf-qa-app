@@ -63,6 +63,8 @@ Endpoint	Method	 Description
 /ask	        POST	 Ask a question
 /reset	        POST	 Reset conversation history
 
+Once the web app is running, either use test.pdf to verify its functionality or generate a PDF based on the specified format.
+
 Example PDF Format:
 
 Question: What is the capital of France?
