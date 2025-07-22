@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 # Create your .env file
 cp .env.example .env
-# Add your OpenAI API key to .env
+# I have added my OpenAI API key. If it's not present, add your own API key to the .env file.
 
 Run backend:
 uvicorn app:app --reload
