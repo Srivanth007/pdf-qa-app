@@ -40,7 +40,7 @@ pdf-qa-app/
 
 cd backend/
 python -m venv venv
-source venv/bin/activate      # On Windows: venv\Scripts\activate
+source venv/bin/activate      # On VScode: python select interpreter as venv\Scripts\activate
 pip install -r requirements.txt
 
 # Create your .env file
